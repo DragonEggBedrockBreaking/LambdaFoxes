@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "lambdafoxes:item/netherite_fox_armor"
-  }
-}
