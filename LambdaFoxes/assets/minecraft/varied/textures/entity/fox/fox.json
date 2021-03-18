@@ -2,7 +2,7 @@
   "type": "varied-mobs:pick",
   "choices": [
     "minecraft:textures/entity/fox/cross_fox.png",
-    "minecraft:textures/entity/fox/default_fox.png",
+    "minecraft:textures/entity/fox/fox.png",
     "minecraft:textures/entity/fox/marble_fox.png",
     "minecraft:textures/entity/fox/fennec_fox.png",
     "minecraft:textures/entity/fox/platinum_fox.png",
