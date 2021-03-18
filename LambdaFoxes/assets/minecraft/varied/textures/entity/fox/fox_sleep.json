@@ -1,0 +1,12 @@
+{
+  "type": "varied-mobs:pick",
+  "choices": [
+    "minecraft:textures/entity/fox/cross_fox_sleep.png",
+    "minecraft:textures/entity/fox/default_fox_sleep.png",
+    "minecraft:textures/entity/fox/marble_fox_sleep.png",
+    "minecraft:textures/entity/fox/fennec_fox_sleep.png",
+    "minecraft:textures/entity/fox/platinum_fox_sleep.png",
+    "minecraft:textures/entity/fox/silver_fox_sleep.png",
+    "minecraft:textures/entity/fox/white_fox_sleep.png"
+  ]
+}
