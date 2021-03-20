@@ -2,4 +2,4 @@
 
 A fox enhancement resource pack for Minecraft. Requires [VariedMobs](https://github.com/Digifox03/variedMobs).
 I will **not** port this pack to the OptiFine format.
-Pictures were made by LambdAurora and Mojang Studios, pack was made by me.
+Pictures were made by LambdAurora, pack was made by me.
